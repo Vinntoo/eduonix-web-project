@@ -1,1 +1,1 @@
-# eduonixwebproject.github.io
+# eduonixwebproject
